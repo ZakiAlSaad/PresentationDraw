@@ -1,0 +1,8 @@
+{
+  "name": "Lucky Draw Prediction Wheel",
+  "description": "An interactive spinning wheel application to assign CSE presentation topics to students randomly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
