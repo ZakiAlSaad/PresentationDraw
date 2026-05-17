@@ -19,6 +19,13 @@ A sophisticated, interactive lucky draw web application designed to assign prese
 - **Effects**: `canvas-confetti` (for celebrations)
 - **PDF Export**: `jspdf` + `html2canvas`
 
+
+## Screenshots
+<img width="1900" height="882" alt="image" src="https://github.com/user-attachments/assets/36c2859b-c952-4191-b4d4-9a151d059646" />
+<br><br><br><br><br><br><br>
+<img width="1900" height="887" alt="image" src="https://github.com/user-attachments/assets/5b4503e0-3d21-410f-b8c2-caff44a58467" />
+
+
 ## 📦 Getting Started
 
 ### Prerequisites
